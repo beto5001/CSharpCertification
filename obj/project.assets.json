@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maque\\source\\repos\\beto\\CertificacaoCSharp\\CertificacaoCSharp.csproj",
-      "projectName": "CertificacaoCSharp",
-      "projectPath": "C:\\Users\\maque\\source\\repos\\beto\\CertificacaoCSharp\\CertificacaoCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\maque\\source\\repos\\beto\\CertificacaoCSharp\\01-TiposDeValor.csproj",
+      "projectName": "01-TiposDeValor",
+      "projectPath": "C:\\Users\\maque\\source\\repos\\beto\\CertificacaoCSharp\\01-TiposDeValor.csproj",
       "packagesPath": "C:\\Users\\maque\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\maque\\source\\repos\\beto\\CertificacaoCSharp\\obj\\",
       "projectStyle": "PackageReference",

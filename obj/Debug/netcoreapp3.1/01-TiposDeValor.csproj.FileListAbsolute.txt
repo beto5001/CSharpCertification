@@ -1,0 +1,12 @@
+C:\Users\maque\source\repos\beto\CertificacaoCSharp\bin\Debug\netcoreapp3.1\01-TiposDeValor.exe
+C:\Users\maque\source\repos\beto\CertificacaoCSharp\bin\Debug\netcoreapp3.1\01-TiposDeValor.deps.json
+C:\Users\maque\source\repos\beto\CertificacaoCSharp\bin\Debug\netcoreapp3.1\01-TiposDeValor.runtimeconfig.json
+C:\Users\maque\source\repos\beto\CertificacaoCSharp\bin\Debug\netcoreapp3.1\01-TiposDeValor.runtimeconfig.dev.json
+C:\Users\maque\source\repos\beto\CertificacaoCSharp\bin\Debug\netcoreapp3.1\01-TiposDeValor.dll
+C:\Users\maque\source\repos\beto\CertificacaoCSharp\bin\Debug\netcoreapp3.1\01-TiposDeValor.pdb
+C:\Users\maque\source\repos\beto\CertificacaoCSharp\obj\Debug\netcoreapp3.1\01-TiposDeValor.AssemblyInfoInputs.cache
+C:\Users\maque\source\repos\beto\CertificacaoCSharp\obj\Debug\netcoreapp3.1\01-TiposDeValor.AssemblyInfo.cs
+C:\Users\maque\source\repos\beto\CertificacaoCSharp\obj\Debug\netcoreapp3.1\01-TiposDeValor.csproj.CoreCompileInputs.cache
+C:\Users\maque\source\repos\beto\CertificacaoCSharp\obj\Debug\netcoreapp3.1\01-TiposDeValor.dll
+C:\Users\maque\source\repos\beto\CertificacaoCSharp\obj\Debug\netcoreapp3.1\01-TiposDeValor.pdb
+C:\Users\maque\source\repos\beto\CertificacaoCSharp\obj\Debug\netcoreapp3.1\01-TiposDeValor.genruntimeconfig.cache
